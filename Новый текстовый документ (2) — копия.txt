@@ -1,0 +1,42 @@
+
+ModuleNotFoundError: No module named 'voise'
+
+ModuleNotFoundError: No module named 'options'
+
+ModuleNotFoundError: No module named 'SmaRT_Dictor'
+
+ModuleNotFoundError: No module named 'edit_img'
+
+
+ModuleNotFoundError: No module named 'show_img'
+
+ModuleNotFoundError: No module named 'Detect_line'
+
+ModuleNotFoundError: No module named 'MakeBorder'
+
+ModuleNotFoundError: No module named 'Smart_cut'
+
+ModuleNotFoundError: No module named 'For_tesseract'
+
+ModuleNotFoundError: No module named 'Npc_text'
+
+ModuleNotFoundError: No module named 'Detect_text'
+
+
+
+ModuleNotFoundError: No module named 'Detect_dooble_img'
+
+ModuleNotFoundError: No module named 'img_dialog'
+
+ModuleNotFoundError: No module named 'choice_of_voice_engine'
+
+ModuleNotFoundError: No module named 'silero_speaker'
+
+ModuleNotFoundError: No module named 'Say'
+
+
+ModuleNotFoundError: No module named 'pitch_voise'
+
+
+FileNotFoundError: [Errno 2] No such file or directory: 'voise.txt'
+

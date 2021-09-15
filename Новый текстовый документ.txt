@@ -1,0 +1,51 @@
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+                 from module.For_tesseract.c:19:
+C:\Users\User\AppData\Local\Programs\Python\Python39\include/pyconfig.h:59:10: fatal error: io.h: No such file or directory
+   59 | #include <io.h>
+      |          ^~~~~~
+compilation terminated.
+
+                                                                                                                                                                                                                                       s
+cons: *** [module.For_tesseract.o] Error 1
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+                 from module.Levenshtein.c:19:
+C:\Users\User\AppData\Local\Programs\Python\Python39\include/pyconfig.h:59:10: fatal error: io.h: No such file or directory                                                                                                     | 7/752
+   59 | #include <io.h>ct_text.o] Error 1
+      |          ^~~~~~                                                                                                                                                                                                         | 7/752
+compilation terminated.
+                      scons: *** [module.Levenshtein.o] Error 1
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+                 from module.MakeBorder.c:19:
+C:\Users\User\AppData\Local\Programs\Python\Python39\include/pyconfig.h:59:10: fatal error: io.h: No such file or directory
+   59 | #include <io.h>
+      |          ^~~~~~
+compilation terminated.
+scons: *** [module.MakeBorder.o] Error 1
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+                 from module.Npc_text.c:19:
+C:\Users\User\AppData\Local\Programs\Python\Python39\include/pyconfig.h:59:10: fatal error: io.h: No such file or directory
+   59 | #include <io.h>
+      |          ^~~~~~
+compilation terminated.
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+                 from module.PIL.BmpImagePlugin.c:19:
+C:\Users\User\AppData\Local\Programs\Python\Python39\include/pyconfig.h:59:10: fatal error: io.h: No such file or directory
+   59 | #include <io.h>
+      |          ^~~~~~
+compilation terminated.
+scons: *** [module.Npc_text.o] Error 1
+scons: *** [module.PIL.BmpImagePlugin.o] Error 1
+In file included from C:\Users\User\AppData\Local\Programs\Python\Python39\include/Python.h:8,
+                 from C:\Users\User\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include/nuitka/prelude.h:47,
+                 from module.PIL.GifImagePlugin.c:19:
+C:\Users\User\AppData\Local\Programs\Python\Python39\include/pyconfig.h:59:10: fatal error: io.h: No such file or directory
+   59 | #include <io.h>
+      |          ^~~~~~
+compilation terminated.

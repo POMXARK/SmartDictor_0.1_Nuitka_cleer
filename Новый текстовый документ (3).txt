@@ -1,0 +1,32 @@
+['Microsoft Irina Desktop - Russian', 'IVONA 2 Tatyana OEM', 'Microsoft Zira Desktop - English (United States)', 'IVONA 2 Maxim OEM', 'Alan', 'Aleksandr', 'Anatol', 'Anna', 'Azamat', 'Elena', 'Irina', 'Natalia', 'Nazgul', 'Talgat']
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 181, in run
+    Dictor() # паралельная функция
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmaRT_Dictor.py", line 10, in Dictor
+    if e.edit_img() == True: #Проверка нового кадра
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\edit_img.py", line 42, in edit_img
+    if difference_images() == True:# дубликат приведущей сцены - пропуск
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\Detect_dooble_img.py", line 71, in difference_images
+    if (CompareHash(hash1, hash2)) > 4:
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\dispatcher.py", line 501, in _compile_for_args
+    raise e
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\dispatcher.py", line 434, in _compile_for_args
+    return_val = self.compile(tuple(argtypes))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\dispatcher.py", line 979, in compile
+    cres = self._compiler.compile(args, return_type)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\dispatcher.py", line 141, in compile
+    status, retval = self._compile_cached(args, return_type)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\dispatcher.py", line 155, in _compile_cached
+    retval = self._compile_core(args, return_type)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\dispatcher.py", line 168, in _compile_core
+    cres = compiler.compile_extra(self.targetdescr.typing_context,
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\compiler.py", line 686, in compile_extra
+    return pipeline.compile_extra(func)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\compiler.py", line 424, in compile_extra
+    ExtractByteCode().run_pass(self.state)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\untyped_passes.py", line 64, in run_pass
+    bc = bytecode.ByteCode(func_id)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\bytecode.py", line 199, in __init__
+    self._compute_lineno(table, code)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\numba\core\bytecode.py", line 221, in _compute_lineno
+    known = table[_FIXED_OFFSET].lineno

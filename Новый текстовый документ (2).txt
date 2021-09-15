@@ -1,0 +1,444 @@
+Microsoft Windows [Version 10.0.19042.844]
+(c) Корпорация Майкрософт (Microsoft Corporation), 2020. Все права защищены.
+
+C:\Users\User>C:\Users\User\PycharmProjects\Nuitka_test\hello.cmd
+C:\Users\User>C:\Users\User\PycharmProjects\Nuitka_test\hello.exe
+
+C:\Users\User>C:\Users\User\PycharmProjects\Nuitka_test\hello.exe
+
+C:\Users\User>C:\Users\User\PycharmProjects\Nuitka_test\hello.exe
+
+C:\Users\User>C:\Users\User\PycharmProjects\Nuitka_test\hello.exe
+
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_ui_.exe
+
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 9, in <module>
+    import voise
+ModuleNotFoundError: No module named 'voise'
+
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 9, in <module>
+    import voise
+ModuleNotFoundError: No module named 'voise'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 9, in <module>
+    import voise
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\voise.py", line 9, in <module>
+    from options import set_opt
+ModuleNotFoundError: No module named 'options'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+ModuleNotFoundError: No module named 'SmaRT_Dictor'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A1F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>clear
+"clear" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>cleat
+"cleat" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\User>cleer
+"cleer" не является внутренней или внешней
+командой, исполняемой программой или пакетным файлом.
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+ModuleNotFoundError: No module named 'SmaRT_Dictor'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A1F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+ModuleNotFoundError: No module named 'edit_img'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+ModuleNotFoundError: No module named 'edit_img'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 4, in <module>
+    from show_img import show
+ModuleNotFoundError: No module named 'show_img'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 5, in <module>
+    from Detect_line import detect_line
+ModuleNotFoundError: No module named 'Detect_line'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 6, in <module>
+    from MakeBorder import make_border
+ModuleNotFoundError: No module named 'MakeBorder'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 7, in <module>
+    from Smart_cut import smart_cut
+ModuleNotFoundError: No module named 'Smart_cut'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 8, in <module>
+    from For_tesseract import tesserack_mask
+ModuleNotFoundError: No module named 'For_tesseract'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 9, in <module>
+    from Npc_text import npc
+ModuleNotFoundError: No module named 'Npc_text'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 10, in <module>
+    from Detect_text import clear_text
+ModuleNotFoundError: No module named 'Detect_text'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 11, in <module>
+    from Detect_dooble_img import difference_images
+ModuleNotFoundError: No module named 'Detect_dooble_img'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 2, in <module>
+    import edit_img as e
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\edit_img.py", line 11, in <module>
+    from Detect_dooble_img import difference_images
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\Detect_dooble_img.py", line 4, in <module>
+    from img_dialog import img_dialog
+ModuleNotFoundError: No module named 'img_dialog'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 3, in <module>
+    from choice_of_voice_engine import choice_of_voice_engine
+ModuleNotFoundError: No module named 'choice_of_voice_engine'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 3, in <module>
+    from choice_of_voice_engine import choice_of_voice_engine
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\choice_of_voice_engine.py", line 1, in <module>
+    from silero_speaker import say_silero
+ModuleNotFoundError: No module named 'silero_speaker'
+Exception ignored on calling ctypes callback function: <function catch_errors.<locals>.call_with_this at 0x00000000225A2F70>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\comtypes\_comobject.py", line 91, in call_with_this
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1474, in error
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1699, in isEnabledFor
+TypeError: 'NoneType' object is not callable
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 3, in <module>
+    from choice_of_voice_engine import choice_of_voice_engine
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\choice_of_voice_engine.py", line 4, in <module>
+    from Say import say
+ModuleNotFoundError: No module named 'Say'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 15, in <module>
+    from SmaRT_Dictor import Dictor
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\SmaRT_Dictor.py", line 3, in <module>
+    from choice_of_voice_engine import choice_of_voice_engine
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\choice_of_voice_engine.py", line 4, in <module>
+    from Say import say
+  File "C:\Users\User\PycharmProjects\SmartDictor_bin\Say.py", line 4, in <module>
+    import pitch_voise as p
+ModuleNotFoundError: No module named 'pitch_voise'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+['Microsoft Irina Desktop - Russian', 'IVONA 2 Tatyana OEM', 'Microsoft Zira Desktop - English (United States)', 'IVONA 2 Maxim OEM', 'Alan', 'Aleksandr', 'Anatol', 'Anna', 'Azamat', 'Elena', 'Irina', 'Natalia', 'Nazgul', 'Talgat']
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 172, in <module>
+    ui.setupUi(MainWindow)
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 100, in setupUi
+    voise_name = open('voise.txt')  # открыть файл
+FileNotFoundError: [Errno 2] No such file or directory: 'voise.txt'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+['Microsoft Irina Desktop - Russian', 'IVONA 2 Tatyana OEM', 'Microsoft Zira Desktop - English (United States)', 'IVONA 2 Maxim OEM', 'Alan', 'Aleksandr', 'Anatol', 'Anna', 'Azamat', 'Elena', 'Irina', 'Natalia', 'Nazgul', 'Talgat']
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 172, in <module>
+    ui.setupUi(MainWindow)
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 100, in setupUi
+    voise_name = open('voise.txt')  # открыть файл
+FileNotFoundError: [Errno 2] No such file or directory: 'voise.txt'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+['Microsoft Irina Desktop - Russian', 'IVONA 2 Tatyana OEM', 'Microsoft Zira Desktop - English (United States)', 'IVONA 2 Maxim OEM', 'Alan', 'Aleksandr', 'Anatol', 'Anna', 'Azamat', 'Elena', 'Irina', 'Natalia', 'Nazgul', 'Talgat']
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 172, in <module>
+    ui.setupUi(MainWindow)
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 100, in setupUi
+    voise_name = open('voise.txt')  # открыть файл
+FileNotFoundError: [Errno 2] No such file or directory: 'voise.txt'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+['Microsoft Irina Desktop - Russian', 'IVONA 2 Tatyana OEM', 'Microsoft Zira Desktop - English (United States)', 'IVONA 2 Maxim OEM', 'Alan', 'Aleksandr', 'Anatol', 'Anna', 'Azamat', 'Elena', 'Irina', 'Natalia', 'Nazgul', 'Talgat']
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 172, in <module>
+    ui.setupUi(MainWindow)
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 100, in setupUi
+    voise_name = open('voise.txt')  # открыть файл
+FileNotFoundError: [Errno 2] No such file or directory: 'voise.txt'
+
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>
+C:\Users\User>C:\Users\User\PycharmProjects\SmartDictor_bin\SmartDictor_ui_.exe
+['Microsoft Irina Desktop - Russian', 'IVONA 2 Tatyana OEM', 'Microsoft Zira Desktop - English (United States)', 'IVONA 2 Maxim OEM', 'Alan', 'Aleksandr', 'Anatol', 'Anna', 'Azamat', 'Elena', 'Irina', 'Natalia', 'Nazgul', 'Talgat']
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 172, in <module>
+    ui.setupUi(MainWindow)
+  File "C:\Users\User\PycharmProjects\SmartDictor_0.1_Nuitka_cleer\SmartDictor_ui_.py", line 100, in setupUi
+    voise_name = open('voise.txt')  # открыть файл
+FileNotFoundError: [Errno 2] No such file or directory: 'voise.txt'
+
+C:\Users\User>
