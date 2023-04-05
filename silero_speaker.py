@@ -1,8 +1,7 @@
-
 import pytesseract
 import show_img as s
-from options import  set_voise
-from torch import device as torch_device,package,set_num_threads
+from options import set_voise
+from torch import device as torch_device, package, set_num_threads
 from simpleaudio import WaveObject, stop_all
 
 

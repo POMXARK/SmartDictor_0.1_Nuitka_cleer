@@ -3,7 +3,6 @@ import cv2 as cv
 from show_img import show
 
 
-
 def clear_text():
     img = cv.imread('text_npc.png')
     lower = np.array([0, 0, 0], np.uint8)
@@ -31,14 +30,14 @@ def clear_text():
             if N < 101:
 
                 if max(box[0][0], box[1][0]) - min(box[0][0], box[1][0]) > 1 or \
-                         max(box[0][1], box[1][1]) - min(box[0][1],box[1][1]) > 3: # проверка линии на точку (устранение неточности алгоритма)
+                        max(box[0][1], box[1][1]) - min(box[0][1], box[1][
+                    1]) > 3:  # проверка линии на точку (устранение неточности алгоритма)
                     print()
                 else:
 
                     cv.rectangle(img, (x, y), (x + w, y + h), (0, 0, 0), cv.FILLED)
 
-            N+= 1
-
+            N += 1
 
     cv.imwrite('clear_text.png', img)
     clear_text_img = cv.imread('clear_text.png')
