@@ -1,0 +1,154 @@
+
+##: import Factory kivy.factory.Factory
+#<FileChooserPopup@Popup>
+#    auto_dismiss: False
+#    title: 'User data has been saved!'
+#    BoxLayout:
+#
+#        Popup:
+#            FileChooser:
+#                id: filechooser
+#
+#                FileChooserIconLayout
+#                FileChooserListLayout
+#
+#        Button:
+#            text: 'Edit Popup'
+#            on_release: root.dismiss()
+
+<Container>:
+    orientation: 'vertical'
+
+    ActionBar:
+        pos_hint: {'top':1}
+        ActionView:
+            use_separator: True
+            ActionPrevious:
+#                title: 'Example App'
+                with_previous: False
+#            ActionGroup:
+#                text: 'File'
+#                mode: 'normal'
+            ActionButton:
+                text: 'Open'
+                on_press: root.open_file()
+#                on_press: Factory.FileChooserPopup().open()
+#                 root.open_file()
+            ActionButton:
+                text: 'Save'
+                on_press: root.save_file()
+    Image:
+        id: image_wrapper
+        source: ''
+#    Button:
+#        text: 'World'
+
+#    name: 'Sliders'
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint_y: 0.2
+
+        BoxLayout:
+    #        orientation: 'vertical'
+    #        size_hint_x: 0.5
+    #        height: '48dp'
+
+            Slider:
+                id: h1
+                step: 1
+                max: 255
+                touch: root.touch('h1: ' + str(int(h1.value)))
+
+            Label:
+                text: 'h1: ' + str(int(h1.value))
+
+            Slider:
+                id: s1
+                step: 1
+                max: 255
+                touch: root.touch('s1: ' + str(int(s1.value)))
+
+            Label:
+                text: 's1: ' + str(int(s1.value))
+
+            Slider:
+                id: v1
+                step: 1
+                max: 255
+                touch: root.touch('v1: ' + str(int(v1.value)))
+
+            Label:
+                text: 'v1: ' + str(int(v1.value))
+
+        BoxLayout:
+
+            Slider:
+                id: h2
+                step: 1
+                max: 255
+                touch: root.touch('h2: ' + str(int(h2.value)))
+
+            Label:
+                text: 'h2: ' + str(int(h2.value))
+
+            Slider:
+                id: s2
+                step: 1
+                max: 255
+                touch: root.touch('s2: ' + str(int(s2.value)))
+
+            Label:
+                text: 's2: ' + str(int(s2.value))
+
+            Slider:
+                id: v2
+                step: 1
+                max: 255
+                touch: root.touch('v2: ' + str(int(v2.value)))
+
+            Label:
+                text: 'v2: ' + str(int(v2.value))
+
+
+
+#            Label:
+#                text: '{}'.format(int(v2.value))
+
+#    BoxLayout:
+#        size_hint_y: None
+#        height: '48dp'
+#
+#        Label:
+#            text: 'Stepped'
+#
+#        Slider:
+#            id: s2
+#            step: 20
+#
+#        Label:
+#            text: '{}'.format(s2.value)
+
+#    AnchorLayout:
+#        size_hint_y: None
+#        height: '100dp'
+#
+#        GridLayout:
+#            cols: 2
+#            spacing: '8dp'
+#            size_hint_x: None
+#            width: self.minimum_width
+#
+#            Slider:
+#                size_hint_x: None
+#                width: '48dp'
+#                orientation: 'vertical'
+#                value: s1.value
+#                on_value: s1.value = self.value
+#
+#            Slider:
+#                size_hint_x: None
+#                width: '48dp'
+#                orientation: 'vertical'
+#                step: 20
+#                value: s2.value
+#                on_value: s2.value = self.value

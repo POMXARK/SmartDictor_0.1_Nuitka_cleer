@@ -36,12 +36,10 @@ class UiMainWindow(object):
         self.height_img = 110
         self.width_img = 110
 
-    def setup_ui(self, main_window):
+    def setup_ui(self, window):
+        window.resize(536, 571)  # размеры окна
 
-        main_window.setObjectName("MainWindow")
-        main_window.resize(536, 571)  # размеры окна
-
-        self.central_widget = QtWidgets.QWidget(main_window)  # присвоить класс главного окна
+        self.central_widget = QtWidgets.QWidget(window)  # присвоить класс главного окна
         self.grid_layout_2 = QtWidgets.QGridLayout(self.central_widget)
         self.grid_layout = QtWidgets.QGridLayout()
         self.horizontal_layout_3 = QtWidgets.QHBoxLayout()
@@ -75,17 +73,13 @@ class UiMainWindow(object):
         spacer_item = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.grid_layout.addItem(spacer_item, 1, 1, 1, 1)
         self.grid_layout_2.addLayout(self.grid_layout, 0, 0, 1, 1)
-        main_window.setCentralWidget(self.central_widget)
+        window.setCentralWidget(self.central_widget)
 
-        self.retranslation_ui(main_window)
+        self.retranslation_ui(window)
 
         self.push_button_2.clicked.connect(self.load_image)
         self.push_button.clicked.connect(self.save_photo)
-        QtCore.QMetaObject.connectSlotsByName(main_window)
-
-        # Добавлен код сюда
-        self.filename = None  # Будет содержать адрес изображения
-        self.tmp = None  # Будет удерживать временное изображение для отображения
+        QtCore.QMetaObject.connectSlotsByName(window)
 
         for widget in range(1, 6 + 1):
             label_obj = 'vertical_label_' + str(widget)  # генерируем имя переменной
@@ -123,7 +117,8 @@ class UiMainWindow(object):
 
         hsv_mask = QImage(hsv_mask, hsv_mask.shape[1], hsv_mask.shape[0], hsv_mask.strides[0],
                           QImage.Format_RGB888)
-        self.img.setPixmap(QtGui.QPixmap.fromImage(hsv_mask))
+        hsv_mask_scaled = hsv_mask.scaled(hsv_mask.width() / 1.2, hsv_mask.height() / 1.2)
+        self.img.setPixmap(QtGui.QPixmap.fromImage(hsv_mask_scaled))
 
     # коллекция подключенных методов на изменение
     def h1(self, value=0):
