@@ -1,3 +1,6 @@
+# ★★★ DEMO ★★★
+https://github.com/user-attachments/assets/ff426cfc-bd9f-4116-9992-aa5bfe86ec9e
+
 # ★★★ All-GUI-in-OpenCV-python ★★★
 Example for every gui element in OpenCV in python
 
